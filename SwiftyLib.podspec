@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "SwiftyLib"
+  spec.name         = "SwiftyLibTest"
   spec.version      = "0.0.1"
   spec.summary      = "A CocoaPods library written in Swift"
 
@@ -10,7 +10,7 @@ This CocoaPods library helps you perform calculation.
 
   spec.homepage     = "https://github.com/pavaneo/SwiftyLib"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "jeantimex" => "avasarpini.conch@gmail.com" }
+  spec.author       = { "Pavan Jain" => "avasarpini.conch@gmail.com" }
 
   spec.ios.deployment_target = "12.1"
   spec.swift_version = "4.2"
